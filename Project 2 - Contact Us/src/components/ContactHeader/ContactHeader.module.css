@@ -1,0 +1,11 @@
+.contactHeader {
+  color: #FF735C;
+}
+.contactHeader h1 {
+  font-size: 3vw;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.contactHeader p {
+  text-transform: uppercase;
+}

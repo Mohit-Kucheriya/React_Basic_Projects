@@ -1,0 +1,31 @@
+.primaryBtn {
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #FF735C;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #FF735C;
+  min-width: 200px;
+  cursor: pointer;
+}
+.secondaryBtn {
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  font-size: 16px;
+  background-color: #FF735C;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  min-width: 200px;
+  width: 100%;
+  color: #fff;
+  cursor: pointer;
+}

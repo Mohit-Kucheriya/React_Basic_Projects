@@ -1,0 +1,23 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1vh 0;
+}
+
+.logo img {
+  height: 80px;
+}
+
+.navigation ul {
+  display: flex;
+  gap: 3vw;
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #ff735c;
+}
